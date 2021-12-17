@@ -2,7 +2,7 @@ Pandas is a Python library specializing in data analysis. The pandas structures 
 
 # Content 
 
-1. Pandas Datastructures
+1. Pandas Data structures
 2. Clean Data
 3. Indexing
 4. Operations
